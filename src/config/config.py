@@ -6,7 +6,7 @@ Url2 = "https://www.asjmapihost.cc"       # 域名
 # Url2 = "https://www.jmapibranch3.cc"       # 域名
 PicUrl2 = "https://cdn-msp.jmapiproxy2.cc"       # 域名
 
-Url2List = ["https://www.asjmapihost.cc", "https://www.jmapibranch1.cc", "https://www.jmapibranch2.cc", "https://www.jmapibranch3.cc"]
+Url2List = ["https://www.asjmapihost.cc", "https://www.jmapibranch1.cc", "https://www.jmapibranch2.cc", "https://www.jmapibranch3.cc", "https://jmcomic.moe"]
 PicUrlList = ["https://cdn-msp.jmapiproxy2.cc", "https://cdn-msp.jmapiproxy2.cc", "https://cdn-msp.jmapiproxy1.cc", "https://cdn-msp.jmapiproxy1.cc"]
 Now = int(time.time())
 ProxyApiDomain = "api.bika.life"
