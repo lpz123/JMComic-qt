@@ -1,6 +1,6 @@
 import time
 
-Url = "https://18comic.org"       # 域名
+Url = "https://jmcomic.moe"       # 域名
 # Url = "https://jmcomic1.cc"       # 域名
 Url2 = "https://www.asjmapihost.cc"       # 域名
 # Url2 = "https://www.jmapibranch3.cc"       # 域名
